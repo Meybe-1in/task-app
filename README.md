@@ -6,13 +6,13 @@ This is a simple To-Do web application built using Flask and SQLAlchemy, allowin
 
 ## Setup
 
-** Install Dependencies**
+**Install Dependencies**
 
    Ensure you have Python installed. Then, install Flask and SQLAlchemy using pip:
 
    `pip install Flask SQLAlchemy`
 
-** Run the Application**
+**Run the Application**
 
 Execute the following command in your terminal:
 
