@@ -2,7 +2,7 @@
 
 This is a simple To-Do web application built using Flask and SQLAlchemy, allowing users to create, mark as done, and delete tasks.
 
-![To do!](/assets/todolist.PNG "Reference")
+<img src="assets/todolist.PNG" width="200" height="100">
 
 ## Setup
 
